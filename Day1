@@ -1,0 +1,39 @@
+# Day 01 — Basic Logic Gates
+
+## Objective
+
+Implement and verify the fundamental logic gates using
+Verilog HDL and AMD Vivado.
+
+## Gates
+
+- AND
+- OR
+- NOT
+- NAND
+- NOR
+- XOR
+- XNOR
+
+## Concepts Learned
+
+- Verilog module structure
+- Inputs and outputs
+- Logic operators
+- Continuous assignment
+- Testbench
+- Simulation
+- Waveform verification
+
+## Tool
+
+AMD Vivado
+
+## Verification
+
+All possible input combinations will be tested using
+a Verilog testbench.
+
+## Status
+
+🔄 In Progress
